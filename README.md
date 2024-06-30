@@ -44,4 +44,15 @@ Requisitos
       Requests
 
 
+![Filtrado de IOCs](https://github.com/Dani-Caste/virustotal-IOCs/assets/97344483/d621197d-fada-47b0-a7de-109587691544)
+
+![IOCs por linea](https://github.com/Dani-Caste/virustotal-IOCs/assets/97344483/1994890a-c694-4233-8a90-d567f21eeb57)
+
+
+
+
+
+      
+
+
 
